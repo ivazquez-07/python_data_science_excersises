@@ -1,11 +1,11 @@
-### Python Data Science Excersises
+# Python Data Science Excersises
 
-## Curso Aula 1:
-# Estadística con Python: Python para Data Science: 
+### Curso Aula 1:
+## Estadística con Python: Python para Data Science: 
 Notebook para el curso de Python para Data Science publicado en la plataforma de Alura Latam #ONE-G8
 
-## Curso Aula 2:
-# Estadística con Python: Probabilidad y muestreo
+### Curso Aula 2:
+## Estadística con Python: Probabilidad y muestreo
 - Realice este curso para Estadística y:
 - Compreende las distribuciones de binomial, poisson y normal
 - Entiende que es nivel e intervalo de confianza
